@@ -1,0 +1,25 @@
+1)who comes to your mind hero and villian?
+A)Villian hornet because hornets decapitating thousands heads of honey bees.hero is life.
+2)what do you understand by the word stash? 
+A)Stash means hiding something that people unware of.
+3)if given an option will you be travelling forward?
+A)forward  and the year is 2087.
+4)who comes to your mind when i say team work?
+A)honeybees ,because they surround  hornet beat  hornet wings and all honeybees generate heat.heat eventually kill the hornets.
+
+5)which one you believe a unbelieavable technology you came across do you thick you will manifest?
+A)DNA HardDrive Technology , maybe possible to develop in future.
+
+
+
+
+6)what comes to your mind time line and alternate time line?
+A)Reborn Rich is the movie when i think about time line and alternate  time line
+
+
+
+
+SELECT salary from doctor where salary <(select(avg(salary)) from doctor);
+select name from doctor where pass REGEXP'[0-9]';
+select name from doctor where emailid like '%gmail.com';
+SELECT * FROM doctor where dob like '%1980%';
